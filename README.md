@@ -18,5 +18,3 @@ The process iteratively generates new images, balancing content preservation wit
 
 [Convolutional Neural Network courses offered by DeepLearning.AI](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
 
-
-  - 
