@@ -1,6 +1,6 @@
 # Neural Style Transfer
 
-This [notebook]() showcases Neural Style Transfer using a pre-trained VGG19 Model. It combines the content of one image with the style of another by selecting specific VGG19 layers for style and content representation. 
+This [notebook](neural_style_transfer_dl.ipynb) showcases Neural Style Transfer using a pre-trained VGG19 Model. It combines the content of one image with the style of another by selecting specific VGG19 layers for style and content representation. 
 The process iteratively generates new images, balancing content preservation with style application. 
 
 ## Data 
